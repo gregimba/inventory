@@ -1,2 +1,3 @@
-inventory
+*.pyc
 .DS_Store
+inventory.db
