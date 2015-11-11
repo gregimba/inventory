@@ -1,3 +1,4 @@
+click==5.1
 money==1.2.2
 peewee==2.6.3
 wheel==0.24.0
